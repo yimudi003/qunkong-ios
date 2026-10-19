@@ -61,3 +61,6 @@ QQ群10: 205262444
 图片预览，之前老的预览
 ![游戏工作室预览图](./111.jpg)
 
+
+[EasyClick 安卓版本蓝牙HID开源代码](https://github.com/easy-click/easyclick-android-ble-source)
+
